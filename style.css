@@ -43,7 +43,7 @@ h2 {
 
   color: white;
   font-size: 16px;
-  background-color: rgb(59, 22, 221);
+  background-color: rgb(56, 19, 223);
   
   border: none;
   border-radius: 50px;
@@ -51,7 +51,7 @@ h2 {
 }
 
 #permisos:hover {
-  background-color: rgb(45, 15, 179);
+  background-color: rgb(41, 10, 179);
 }
 
 #nlat, #nlon {
